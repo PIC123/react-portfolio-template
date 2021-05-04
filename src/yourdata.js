@@ -8,7 +8,7 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
+import linkedinIcon from "./images/linkedin.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Phil",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -31,7 +31,7 @@ export default {
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "pcherner4@gmail.com",
 
   // End Header Details -----------------------
 
@@ -45,7 +45,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://picherner.com/",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
@@ -174,10 +174,10 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/PIC123" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img: linkedinIcon,
+      url: "https://www.linkedin.com/in/pcherner/",
     },
     {
       img: dribbbleIcon,
