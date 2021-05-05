@@ -36,6 +36,7 @@ const Layout = ({ children }) => {
       <Navbar></Navbar>
       <label class="switch">
         <input type="checkbox" />
+        Dark Mode
         <span
           onClick={() => {
             setDarkTheme(!darkTheme)
