@@ -5,6 +5,7 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import unity from "./images/unity.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -18,6 +19,8 @@ import selfPortrait from "./images/self.jpg"
 // Project Photos
 import fetchMlDemo from "./images/fetchMLdemo.gif"
 import rpsDemo from "./images/rockPaperScissorsDemo.gif"
+import ARtBot from "./images/artbot.png"
+import VoTT from "./images/vott.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -29,9 +32,9 @@ export default {
     //Line 1 For Header
     "Building digital",
     //Line 2 For Header
-    "products, brands,",
+    "experiences and",
     //Line 3 For Header
-    "and experience",
+    "products that Inspire",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -57,7 +60,7 @@ export default {
     {
       title: "RockPaperScissors(RPS) VR", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "This demo app combines the Oculus Quest's handtracking with guesture recognition and MRTK-Quest to play Rock, Paper, Scossors.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         rpsDemo,
@@ -77,10 +80,10 @@ export default {
     {
       title: "ARtBot:", //Project Title - Add Your Project Title Here
       para:
-        "An interactive Hololens experience developed for NY Creative Tech Week. After spatially scanning the room with the Hololens, the user is greeted by a oating robot and a virtual art gallery with paintings lling their walls. The user can speak with the ARtBot, which uses speech-to-text and NLP, and ask questions about the art pieces or artists, or change the paintings on display", // Add Your Service Type Here
+        "An interactive virtual art gallery with holographic robot curator, developed for NY Creative Tech Week. The user can speak with the ARtBot, which uses speech-to-text and NLP, and ask questions about the art pieces or artists, or change the paintings on display", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        ARtBot,
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -90,7 +93,7 @@ export default {
         "Visual Object Tagging Tool is an open source annotation and labeling tool for images and videos. It allows users to quickly label their data and export it in a variety of formats to facilitate training machine learning models", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        VoTT,
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -120,7 +123,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typecript, Python and Unity. Experience creating applications for a range of AR/VR technologies. Passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
   aboutParaTwo:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   aboutParaThree:
@@ -141,7 +144,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: cssIcon,
+      img: unity,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
@@ -185,10 +188,6 @@ export default {
     {
       img: linkedinIcon,
       url: "https://www.linkedin.com/in/pcherner/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
     },
     {
       img: instagramIcon,
