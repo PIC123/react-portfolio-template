@@ -21,6 +21,7 @@ import fetchMlDemo from "./images/fetchMLdemo.gif"
 import rpsDemo from "./images/rockPaperScissorsDemo.gif"
 import ARtBot from "./images/artbot.png"
 import VoTT from "./images/vott.png"
+import vrHaptics from "./images/vrHAptics.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -38,7 +39,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Hey there! My name's Phil and I love building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
 
   //Contact Email
   contactEmail: "pcherner4@gmail.com",
@@ -73,7 +74,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.squarespace-cdn.com/content/v1/57bfa41debbd1a395f0edf68/1473853874256-NK3LYM0VU1KNC1I3BYG5/ke17ZwdGBToddI8pDm48kAMvCQNXqnJSE2Bi4Ci7HE1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxbawZ7Hs0KeGJczJKSm9KXjRKm2xBr62JVpKL5ghR4jCjK-kmPu5FGOngGui0Kmro/image-asset.gif?auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/PIC123/OrionQuest-MRTK",
     },
@@ -103,7 +104,7 @@ export default {
         " An IoT based armband to be worn while in VR that would simulate haptic feedback using electrical muscle stimulation. The device was activated based on hand position, tracked using a leap motion on the front of an Oculus Rift, and could simulate tapping, as well as recoil through muscle contraction", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        vrHaptics,
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -123,11 +124,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typecript, Python and Unity. Experience creating applications for a range of AR/VR technologies. Passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
+    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typecript, Python and Unity. With experience creating applications for a range of AR/VR technologies, I'm passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I'm currently working with Microsoft’s top partners, ranging from start-ups to fortune 500 companies across many industries, developing alongside their lead engineers to solve the company’s toughest technical problems on the Comercial Software Engineering team.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "Previously, I was doing research in the Fluid Interfaces group at the MIT MIT Media Lab and worked with the Robot Locomotion Group in MIT CSAIL while studying Electrical Engineering & Computer Science at MIT.",
   aboutImage:
     selfPortrait,
 
@@ -141,32 +142,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "HTML",
     },
     {
       img: unity,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Unity",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Javascript/Typescript",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "React",
     },
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Design",
     },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Prptotyping",
     },
   ],
 
