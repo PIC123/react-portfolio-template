@@ -31,8 +31,8 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Template Credit:{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
+            Made With <icon>❤</icon> by{" "}
+            <a href="https://www.chetanverma.com/">Phil Cherner</a>
           </span>
         </div>
       </div>
