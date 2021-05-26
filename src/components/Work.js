@@ -6,11 +6,11 @@ import data from "../yourdata"
 
 const Work = () => {
   return (
-    <div className="section" id="work">
+    <div className="section" id="projects">
       <div className="container">
         <div className="work-wrapper">
           <Fade bottom>
-            <h1>Work</h1>
+            <h1>Projects</h1>
           </Fade>
 
           <div className="grid">

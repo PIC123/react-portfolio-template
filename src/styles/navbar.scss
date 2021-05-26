@@ -14,8 +14,10 @@
       font-family: "Open Sans";
       opacity: 0.6;
       transition: all 0.2s ease-in-out;
-      font-size: 12px;
+      font-size: 0.9rem;
       background-color: transparent;
+      margin-right: 15px;
+      margin-left: 5px;
       outline: none;
       border: 0px;
       cursor: pointer;
@@ -25,6 +27,13 @@
     }
     .active {
       color: black;
+    }
+  }
+}
+.dark-theme {
+  .links-wrapper {
+    button {
+      color: white;
     }
   }
 }

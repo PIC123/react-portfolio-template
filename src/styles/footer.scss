@@ -31,6 +31,7 @@
     img {
       height: 2rem;
       margin: 10px;
+      padding: 5px;
     }
   }
   span {
@@ -39,4 +40,22 @@
   icon {
     color: red;
   }
+}
+.dark-theme {
+  .email-link {
+    color: white;
+  }
+  .socialLinkImages {
+    background-color: white;
+
+    border-radius: 5px;
+  }
+  span {
+    a {
+      color: rgb(48, 48, 248);
+    }
+  }
+}
+.smaller-credit {
+  font-size: 0.75rem;
 }
