@@ -30,7 +30,7 @@ const Footer = () => {
               </a>
             ))}
           </div>
-          <span>
+          <span className="smaller-credit">
             Template Credit:{" "}
             <a href="https://www.chetanverma.com/">Chetan Verma</a>
           </span>

@@ -191,10 +191,10 @@ export default {
       img: linkedinIcon,
       url: "https://www.linkedin.com/in/pcherner/",
     },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    // {
+    //   img: instagramIcon,
+    //   url: "https://www.instagram.com/",
+    // },
   ],
 
   // End Contact Section ---------------
