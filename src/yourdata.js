@@ -5,7 +5,9 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
-import unity from "./images/unity.svg"
+import unityIcon from "./images/unity.svg"
+import pythonIcon from "./images/python.svg"
+import cSharpIcon from "./images/c-sharp.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -141,12 +143,12 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: cSharpIcon,
       para:
-        "HTML",
+        "C#",
     },
     {
-      img: unity,
+      img: unityIcon,
       para:
         "Unity",
     },
@@ -169,6 +171,16 @@ export default {
       img: codeIcon,
       para:
         "Prototyping",
+    },
+    {
+      img: pythonIcon,
+      para:
+        "Python",
+    },
+    {
+      img: htmlIcon,
+      para:
+        "HTML",
     },
   ],
 
