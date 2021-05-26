@@ -22,7 +22,7 @@ import rpsDemo from "./images/rockPaperScissorsDemo.gif"
 import ARtBot from "./images/artbot.png"
 import VoTT from "./images/vott.png"
 import vrHaptics from "./images/vrHaptics.png"
-import orionMRTK from "./images/Orion-MRTK.png"
+import orionMRTK from "./images/Orion-MRTK.gif"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
