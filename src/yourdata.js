@@ -22,6 +22,7 @@ import rpsDemo from "./images/rockPaperScissorsDemo.gif"
 import ARtBot from "./images/artbot.png"
 import VoTT from "./images/vott.png"
 import vrHaptics from "./images/vrHaptics.png"
+import orionMRTK from "./images/Orion-MRTK.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -61,7 +62,7 @@ export default {
     {
       title: "RockPaperScissors(RPS) VR", //Project Title - Add Your Project Title Here
       para:
-        "This demo app combines the Oculus Quest's handtracking with guesture recognition and MRTK-Quest to play Rock, Paper, Scossors.", // Add Your Service Type Here
+        "This demo app combines the Oculus Quest's hand tracking with gesture recognition and MRTK-Quest to play Rock, Paper, Scissors.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         rpsDemo,
@@ -74,7 +75,7 @@ export default {
         "An adaptation of Leap Motion's Orion tech demo for the Oculus Quest, using hand tracking and leveraging MRTK for menus and interactions", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.squarespace-cdn.com/content/v1/57bfa41debbd1a395f0edf68/1473853874256-NK3LYM0VU1KNC1I3BYG5/ke17ZwdGBToddI8pDm48kAMvCQNXqnJSE2Bi4Ci7HE1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxbawZ7Hs0KeGJczJKSm9KXjRKm2xBr62JVpKL5ghR4jCjK-kmPu5FGOngGui0Kmro/image-asset.gif?auto=format&fit=crop&w=400&q=60",
+        orionMRTK,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/PIC123/OrionQuest-MRTK",
     },
@@ -86,12 +87,12 @@ export default {
       imageSrc:
         ARtBot,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://cherner.dev",
     },
     {
       title: "VoTT", //Project Title - Add Your Project Title Here
       para:
-        "Visual Object Tagging Tool is an open source annotation and labeling tool for images and videos. It allows users to quickly label their data and export it in a variety of formats to facilitate training machine learning models", // Add Your Service Type Here
+        "Visual Object Tagging Tool is an open source annotation and labeling tool for images and videos. It allows users to quickly label their data and export it in a variety of formats to facilitate training machine learning models", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         VoTT,
@@ -101,12 +102,12 @@ export default {
     {
       title: "VR Haptics", //Project Title - Add Your Project Title Here
       para:
-        " An IoT based armband to be worn while in VR that would simulate haptic feedback using electrical muscle stimulation. The device was activated based on hand position, tracked using a leap motion on the front of an Oculus Rift, and could simulate tapping, as well as recoil through muscle contraction", // Add Your Service Type Here
+        " An IoT based armband to be worn while in VR that would simulate haptic feedback using electrical muscle stimulation. The device was activated based on hand position, tracked using a leap motion on the front of an Oculus Rift, and could simulate tapping, as well as recoil through muscle contraction", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         vrHaptics,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://cherner.dev",
     },
 
     /*
@@ -124,9 +125,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typecript, Python and Unity. With experience creating applications for a range of AR/VR technologies, I'm passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
+    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typescript, Python and Unity. With experience creating applications for a range of AR/VR technologies, I'm passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
   aboutParaTwo:
-    "I'm currently working with Microsoft’s top partners, ranging from start-ups to fortune 500 companies across many industries, developing alongside their lead engineers to solve the company’s toughest technical problems on the Comercial Software Engineering team.",
+    "I'm currently working with Microsoft’s top partners, ranging from start-ups to fortune 500 companies across many industries, developing alongside their lead engineers to solve the company’s toughest technical problems on the Commercial Software Engineering team.",
   aboutParaThree:
     "Previously, I was doing research in the Fluid Interfaces group at the MIT MIT Media Lab and worked with the Robot Locomotion Group in MIT CSAIL while studying Electrical Engineering & Computer Science at MIT.",
   aboutImage:
@@ -167,7 +168,7 @@ export default {
     {
       img: codeIcon,
       para:
-        "Prptotyping",
+        "Prototyping",
     },
   ],
 

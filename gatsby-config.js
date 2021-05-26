@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Imagine the Impossible`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Hey there! My name's Phil and I love building new technologies and experiences that inspire in order to develop the future of human/computer interaction.`,
     author: `@gatsbyjs`,
   },
   plugins: [
