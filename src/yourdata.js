@@ -21,7 +21,7 @@ import fetchMlDemo from "./images/fetchMLdemo.gif"
 import rpsDemo from "./images/rockPaperScissorsDemo.gif"
 import ARtBot from "./images/artbot.png"
 import VoTT from "./images/vott.png"
-import vrHaptics from "./images/vrHAptics.png"
+import vrHaptics from "./images/vrHaptics.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -71,7 +71,7 @@ export default {
     {
       title: "Orion-MRTK", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "An adaptation of Leap Motion's Orion tech demo for the Oculus Quest, using hand tracking and leveraging MRTK for menus and interactions", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.squarespace-cdn.com/content/v1/57bfa41debbd1a395f0edf68/1473853874256-NK3LYM0VU1KNC1I3BYG5/ke17ZwdGBToddI8pDm48kAMvCQNXqnJSE2Bi4Ci7HE1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxbawZ7Hs0KeGJczJKSm9KXjRKm2xBr62JVpKL5ghR4jCjK-kmPu5FGOngGui0Kmro/image-asset.gif?auto=format&fit=crop&w=400&q=60",
@@ -91,12 +91,12 @@ export default {
     {
       title: "VoTT", //Project Title - Add Your Project Title Here
       para:
-        "Visual Object Tagging Tool is an open source annotation and labeling tool for images and videos. It allows users to quickly label their data and export it in a variety of formats to facilitate training machine learning models", // Add Your Service Type Here
+        "Visual Object Tagging Tool is an open source annotation and labeling tool for images and videos. It allows users to quickly label their data and export it in a variety of formats to facilitate training machine learning models", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         VoTT,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/microsoft/VoTT",
     },
     {
       title: "VR Haptics", //Project Title - Add Your Project Title Here
