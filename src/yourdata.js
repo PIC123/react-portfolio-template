@@ -45,7 +45,7 @@ export default {
     "Hey there! My name's Phil and I love building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
 
   //Contact Email
-  contactEmail: "pcherner4@gmail.com",
+  contactEmail: "phil@cherner.dev",
 
   // End Header Details -----------------------
 
