@@ -34,11 +34,11 @@ export default {
   name: "Phil",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Building Digital",
     //Line 2 For Header
-    "experiences and",
+    "Experiences And",
     //Line 3 For Header
-    "products that Inspire",
+    "Products That Inspire",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -127,9 +127,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. Very strong background in C#, Javascript/Typescript, Python and Unity. With experience creating applications for a range of AR/VR technologies, I'm passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
+    "I'm a highly motivated engineer with years of experience working in fast-paced, interdisciplinary environments. I have a very strong background in C#, Javascript/Typescript, Python and Unity. With experience creating applications for a range of AR/VR technologies, I'm passionate about building new technologies and experiences that inspire in order to develop the future of human/computer interaction.",
   aboutParaTwo:
-    "I'm currently working with Microsoft’s top partners, ranging from start-ups to fortune 500 companies across many industries, developing alongside their lead engineers to solve the company’s toughest technical problems on the Commercial Software Engineering team.",
+    "I'm currently working at Microsoft on the Commercial Software Engineering team (CSE) where we collaborate with Microsoft’s top partners, ranging from start-ups to fortune 500 companies across many industries. We work alongside their lead engineers develope solutions to solve the company’s toughest technical problems.",
   aboutParaThree:
     "Previously, I was doing research in the Fluid Interfaces group at the MIT MIT Media Lab and worked with the Robot Locomotion Group in MIT CSAIL while studying Electrical Engineering & Computer Science at MIT.",
   aboutImage:
