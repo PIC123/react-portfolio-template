@@ -89,7 +89,7 @@ export default {
       imageSrc:
         ARtBot,
       //Project URL - Add Your Project Url Here
-      url: "https://www.cherner.dev/",
+      url: "",
     },
     {
       title: "VoTT", //Project Title - Add Your Project Title Here
@@ -109,7 +109,7 @@ export default {
       imageSrc:
         vrHaptics,
       //Project URL - Add Your Project Url Here
-      url: "https://www.cherner.dev/",
+      url: "",
     },
 
     /*

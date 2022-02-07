@@ -5,33 +5,33 @@
   align-items: center;
   justify-content: space-between;
   .name {
+    button{
+      font-size: 2rem;
+    }
     font-weight: 600;
   }
-  .links-wrapper {
-    button {
-      text-decoration: none;
-      padding: 10px;
-      font-family: "Open Sans";
-      opacity: 0.6;
-      transition: all 0.2s ease-in-out;
-      font-size: 0.9rem;
-      background-color: transparent;
-      margin-right: 15px;
-      margin-left: 5px;
-      outline: none;
-      border: 0px;
-      cursor: pointer;
-      &:hover {
-        opacity: 1;
-      }
+  button {
+    padding: 10px;
+    font-family: "Open Sans";
+    opacity: 0.6;
+    transition: all 0.2s ease-in-out;
+    font-size: 0.9rem;
+    background-color: transparent;
+    margin-right: 15px;
+    margin-left: 5px;
+    outline: none;
+    border: 0px;
+    cursor: pointer;
+    &:hover {
+      opacity: 1;
     }
-    .active {
-      color: black;
-    }
+  }
+  .active {
+    color: black;
   }
 }
 .dark-theme {
-  .links-wrapper {
+  .navbar-wrapper {
     button {
       color: white;
     }
