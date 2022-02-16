@@ -9,7 +9,7 @@ const PostPage = ({
 }) => {
   return (
     <main>
-      <Navbar title="Blog"></Navbar>
+      <Navbar></Navbar>
       <h1>{title}</h1>
       <p>{date}</p>
       <p>{body}</p>

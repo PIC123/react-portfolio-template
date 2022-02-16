@@ -1,6 +1,7 @@
 import React from "react"
 import scrollTo from "gatsby-plugin-smoothscroll"
 import styled from "styled-components"
+import icon from "../images/favicon-32x32.png"
 import { Link } from "gatsby"
 
 
@@ -30,7 +31,7 @@ const StyledLink = styled(Link)`
     }
   }`;
 
-const Navbar = ({title='Portfolio'}) => {
+const Navbar = () => {
   return (
     <div className="section">
       <div className="container">
@@ -40,10 +41,15 @@ const Navbar = ({title='Portfolio'}) => {
             tabIndex={0}
             to="/">
               <button>
-                {title}
+                {/* <img src={icon} alt="logo" />{title} */}
+                <img src={icon} alt="logo" />
               </button>
           </Link>
           <div className="links-wrapper">
+          <Link 
+              to="/">
+              <button>Home</button>
+            </Link>
             <Link 
               to="/#projects">
               <button onClick={() => scrollTo("#projects")}>Projects</button>
