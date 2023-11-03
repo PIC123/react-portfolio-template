@@ -5,7 +5,7 @@
 To view a live example, **[click here](https://react-portfolio-template.netlify.app/)**.
 
 
-Just change `src/yourdata.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
+Just change `src/yourdata.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want
 
 But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/chetanverma16/react-portfolio-template/issues).
 
